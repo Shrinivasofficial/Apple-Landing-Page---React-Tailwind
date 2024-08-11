@@ -21,6 +21,7 @@ export const Navbar = () => {
 
         <div>
             <button className='flex items-center border border-gray-300 px-8 py-2 rounded-lg bg-black text-white text-sm'>
+               
                 Get Started
             </button>
         </div>
